@@ -1,0 +1,6 @@
+modelo\Producto.class
+modelo\ProductoConstruccion.class
+vista\Menu.class
+controlador\GestorInventario.class
+persistencia\PersistenciaInventario.class
+modelo\ProductoFerreteria.class
