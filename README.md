@@ -1,2 +1,2 @@
 # Proyecto-Estudiantes
-Jefferson Collachagua
+Jefferson Collachagua Cajahuanca
